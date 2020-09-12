@@ -1,0 +1,211 @@
+[
+  {
+    "location": " ",
+    "postText": "Natureeeee This is a test to get to know if duplication occurs at time of posting or at time of fetching. ",
+    "longitude": 0,
+    "id": "0U1iYUnOgMVAceYckvHh",
+    "commentCount": 0,
+    "postLikes": 4,
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 1,
+      "like": 0,
+      "cry": 1,
+      "love": 1
+    },
+    "latitude": 0,
+    "authorID": "0dvNKmihUtZsdHIttJS3yRdNYyG3",
+    "createdAt": {"seconds": 1565172930, "nanoseconds": 174301000},
+    "postMedia": [
+      "https://images.unsplash.com/photo-1445914897371-974b137e4402?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    ]
+  },
+  {
+    "location": "The Warfield",
+    "postText": "Rare picture of me 😍😍😍",
+    "id": "0U1isujdOgMVAceYckvHh",
+    "commentCount": 0,
+    "postLikes": 0,
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 0,
+      "like": 0,
+      "cry": 0,
+      "love": 0
+    },
+    "authorID": "3783873893993783",
+    "firstName": "Mary Gilborne",
+    "createdAt": {"seconds": 1565172930, "nanoseconds": 174301000},
+    "postMedia": [
+      "https://images.unsplash.com/photo-1495846770511-520ab58b957d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    ],
+    "profilePictureURL": "https://images.unsplash.com/photo-1495846770511-520ab58b957d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "location": " ",
+    "postText": "my love for caffe latte",
+    "longitude": 0,
+    "id": "0U1iYUnOgMVAcehsghkvHh",
+    "commentCount": 0,
+    "postLikes": 4,
+    "reactions": {
+      "surprised": 2,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 0,
+      "like": 7,
+      "cry": 0,
+      "love": 8
+    },
+    "latitude": 0,
+    "authorID": "0dvNKmihUtZsshjskttJS3yRdNYyG3",
+    "createdAt": {"seconds": 1565172930, "nanoseconds": 174301000},
+    "postMedia": [
+      "https://images.unsplash.com/photo-1444418776041-9c7e33cc5a9c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    ]
+  },
+  {
+    "location": "",
+    "postText": "I am Bill Gates. I founded Microsoft. ",
+    "longitude": 0,
+    "id": "AzLPqmdI43kz94pNPbQp",
+    "commentCount": 1,
+    "postLikes": 2,
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 1,
+      "like": 1,
+      "cry": 0,
+      "love": 0
+    },
+    "latitude": 0,
+    "authorID": "yC6IXOAktUZ3qyJKaxqEtpJB6gt2",
+    "createdAt": {"seconds": 1565175839, "nanoseconds": 445655000},
+    "postMedia": [
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2F2049615D-1B6A-4E70-B60D-342CB630CAFA1565175839.570983?alt=media&token=82800788-955a-4137-935d-44c32cf4af99"
+    ]
+  },
+  {
+    "location": "",
+    "postText": "This is a test to get to know if duplication occurs at time of posting or at time of fetching. \n\nPost button has activityIndicator. Once tapped, you will not be able to tap it again! ",
+    "longitude": 0,
+    "id": "G523R8F5RnZMO9VaQM2Z",
+    "commentCount": 4,
+    "postLikes": 2,
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 0,
+      "like": 2,
+      "cry": 0,
+      "love": 0
+    },
+    "latitude": 0,
+    "authorID": "GsGcbEpxnIQRvQkAvE4E3FEjYyg1",
+    "createdAt": {"seconds": 1565175289, "nanoseconds": 596429000},
+    "postMedia": [
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2FFCF35761-2A92-4CF0-8970-A3B5F3791B281565175289.835528?alt=media&token=cfe40b41-cd81-4096-9931-1344049770fb",
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2FCA3FB045-09A9-41A7-8BCE-C294A52A05BC1565175289.74103?alt=media&token=2c0e78ee-0099-4fa3-94d2-d36e8a202442",
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2F0024CA72-DBEB-4671-830A-0D93B14B270C1565175289.802545?alt=media&token=ed60c505-ffb8-4df8-a372-6d6e95fdf502"
+    ]
+  },
+  {
+    "location": " ",
+    "postText": "Science is Beautiful",
+    "longitude": 0,
+    "id": "0U1iYUnOgMVAcehsghkvHh",
+    "commentCount": 0,
+    "postLikes": 4,
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 0,
+      "like": 3,
+      "cry": 1,
+      "love": 5
+    },
+    "latitude": 0,
+    "authorID": "0dvNKmihUtZsshjskttJS3yRdNYyG3",
+    "createdAt": {"seconds": 1565172930, "nanoseconds": 174301000},
+    "postMedia": [
+      "https://images.unsplash.com/photo-1507413245164-6160d8298b31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60"
+    ]
+  },
+  {
+    "location": "",
+    "postText": "Tasting food delivery is not really good for a eyebrow place and I usually end to the brunch on a few hours but it seems to have been the most expensive experience I’ve had since the first one line up for the price of a latte ",
+    "longitude": 0,
+    "id": "HOKvTujWl8wa81wHBKa3",
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 0,
+      "like": 1,
+      "cry": 0,
+      "love": 3
+    },
+    "postLikes": 4,
+    "latitude": 0,
+    "authorID": "lmI40fEzSjYlqN2oh9ciTB3UOuC2",
+    "createdAt": {"seconds": 1562203819, "nanoseconds": 754446000},
+    "postMedia": [
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2FE6FB4786-66EC-4761-B2CD-0A954F2FFA3B1562203819.853663?alt=media&token=5b4bc5ba-e8ef-4f9d-8c88-25f5facf0159"
+    ]
+  },
+  {
+    "location": "",
+    "postText": "This is a post.",
+    "longitude": 0,
+    "id": "PibmoJMQY2BD0byD3LMz",
+    "commentCount": 0,
+    "postLikes": 2,
+    "reactions": {
+      "surprised": 0,
+      "angry": 0,
+      "sad": 0,
+      "laugh": 0,
+      "like": 0,
+      "cry": 0,
+      "love": 2
+    },
+    "latitude": 0,
+    "authorID": "0dvNKmihUtZsdHIttJS3yRdNYyG3",
+    "createdAt": {"seconds": 1565174393, "nanoseconds": 645427000},
+    "postMedia": [
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2FDBB23491-30A4-44AC-9B0D-4BC114C0E8431565174393.739977?alt=media&token=132a5f17-530b-4b8b-a5cd-abcd88341015",
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2F1381D4E5-4D51-4FD5-A859-D7C6C3072EE81565174394.133953?alt=media&token=08c16a10-7f9a-4fb3-bfd7-e3d1aa215806"
+    ]
+  },
+  {
+    "location": "",
+    "postText": "",
+    "longitude": 0,
+    "id": "QHLialc94UNRP3WtiTnC",
+    "commentCount": 0,
+    "postLikes": 1,
+    "reactions": {
+      "surprised": 0,
+      "angry": 1,
+      "sad": 0,
+      "laugh": 0,
+      "like": 0,
+      "cry": 0,
+      "love": 0
+    },
+    "latitude": 0,
+    "authorID": "SMKegqRL2FZA2s98dUZD3LkBFXk2",
+    "createdAt": {"seconds": 1563752540, "nanoseconds": 76751000},
+    "postMedia": [
+      "https://firebasestorage.googleapis.com/v0/b/ios-app-templates.appspot.com/o/SocialNetwork_Posts%2F0D567CB7-F4A7-439C-9F87-A937128688211563752540.174636?alt=media&token=7bed96d1-e754-4f21-b111-8337b6b2305e"
+    ]
+  }
+]
